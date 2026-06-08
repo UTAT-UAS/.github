@@ -19,12 +19,10 @@ Overview:
   - Webappfor visualizing and controlling drone state.
 - https://github.com/UTAT-UAS/computer_vision
   - Model inference code and camera control/access
-- https://github.com/UTAT-UAS/wiki
-  - MkDocs wiki, documentation and tutorials.
-
-### Payload System
-
-Ongoing development.
+- https://github.com/UTAT-UAS/computer_vision_training
+  - Model training code
+- https://github.com/UTAT-UAS/hardware_manager
+  - Offboard computer configuration
 
 ### Archived Flight Stack
 
