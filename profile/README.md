@@ -2,13 +2,27 @@
 
 GitHub for the University of Toronto Aerospace Team - Unmanned Aerial Systems Division
 
+See the wiki for tutorials and guides:
+
 https://utat-uas.github.io/wiki/
 
-## Projects
+Interested in getting involved? See the official UTAT website:
 
-### Flight Stack
+https://www.utat.ca/
 
-Current autonomy codebase.
+## Current Projects
+
+### The Flight Stack
+
+Overview:
+- TBD
+  - The software flight stack mono repo
+- https://github.com/UTAT-UAS/computer_vision_training
+  - Model training code
+
+## Archived Projects
+
+### Flight Stack 25-26
 
 Overview:
 - https://github.com/UTAT-UAS/dev_env
@@ -16,7 +30,7 @@ Overview:
 - https://github.com/UTAT-UAS/flight_stack
   - Main codebase for running the drone in offboard mode, simulations, and higher level drone control.
 - https://github.com/UTAT-UAS/flight_visualizer
-  - Webappfor visualizing and controlling drone state.
+  - Webapp for visualizing and controlling drone state.
 - https://github.com/UTAT-UAS/computer_vision
   - Model inference code and camera control/access
 - https://github.com/UTAT-UAS/computer_vision_training
@@ -24,9 +38,9 @@ Overview:
 - https://github.com/UTAT-UAS/hardware_manager
   - Offboard computer configuration
 
-### Archived Flight Stack
+### Flight Stack 24-26
 
-Autonomy code from 2024-2025, archived from another remote repository provider.
+Archived from another remote repository provider.
 
 Overview:
 - https://github.com/UTAT-UAS/ARCHIVE_dev_environment
@@ -48,3 +62,6 @@ Overview:
 - https://github.com/UTAT-UAS/ARCHIVE_wiki
   - Old wiki, contains some tutorials and documentation of ARCHIVE codebases.
 
+### Firmware Projects
+
+Various repositories
