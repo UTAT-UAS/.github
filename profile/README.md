@@ -29,6 +29,8 @@ Overview:
   - Devcontainer for development and testing
 - https://github.com/UTAT-UAS/flight_stack
   - Main codebase for running the drone in offboard mode, simulations, and higher level drone control.
+- https://github.com/UTAT-UAS/flight_stack_msgs
+  - ROS2 msg/srv definitions for flight_stack
 - https://github.com/UTAT-UAS/flight_visualizer
   - Webapp for visualizing and controlling drone state.
 - https://github.com/UTAT-UAS/computer_vision
